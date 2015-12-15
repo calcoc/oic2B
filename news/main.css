@@ -1,0 +1,30 @@
+html,body{
+	max-height:700px;
+	background:#ffefc9;
+
+}
+a{
+	font-size: 11px;
+	text-decoration: none;
+	color: #000000;
+}
+#masonry {  
+margin:0 auto;
+width:100%;
+padding:10px;
+border:1px solid #EEE; 
+overflow:auto; 
+background:#ffefc9;
+}  
+
+.item {
+max-width:280px;
+margin:8px;
+padding:10px;
+float:left;
+background:#fff;
+color:#000;
+display:inline;
+box-shadow: 0 7px 6px -6px #777777;
+
+}
